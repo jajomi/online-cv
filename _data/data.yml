@@ -97,16 +97,50 @@ experiences:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiencies
 
     toolset:
-      - name: Python & Django
+      - name: Java
 
-      - name: Javascript & jQuery
+      - name: Spring
 
-      - name: Angular
+      - name: Javascript
 
-      - name: HTML5 & CSS
+      - name: ReactJs
+
+      - name: CSS
+
+      - name: CICD
+
+      - name: Concourse
+
+      - name: Jenkins
+
+      - name: RESTful APIs
+
+      - name: Communication
+
+      - name: SOAP
+
+      - name: Confluence
+
+      - name: DB2
+
+      - name: Oracle
+
+      - name: MySQL
+
+      - name: CloudFoundry
+
+      - name: GCP
+
+      - name: Bash
+
+      - name: GraphQL
+
+      - name: TDD
+
+      - name: Git
 
 footer: >
     
