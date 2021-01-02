@@ -45,43 +45,41 @@ education:
       university: Douglas MacArthur State College
       time: 2001
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Software Engineer / Staff Software Engineer
+      time: 2016 - Present
+      company: The Home Depot, Atlana, GA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+        Contributed to multiple initiatives to modernize enterprise applications, such as
+          - IRIS – Updated application to manage contacts for the Investor Relations group at THD.
+          - Password Reset – Prevented almost 100,000 calls to the help desk per year for password resets, saving Home
+Depot over $4m per year
+          - Tax Commons (MVP) – Develop a modern bridge to legacy tax system, allowing Installed Sales group to charge
+customers for installations. This has increased HD.com sales by over $100m just in 2018.
+          - TimsUI – Create updated web UI that allows users to update transfers in the existing legacy system. Allows user
+to upload a spreadsheet of changes, updating hundreds of records in minutes, rather than days. ▪ Team Anchor for Finance API – Team Atlas
+          - Led the team in researching and implementing GCP standards, and deployed first production application to GCP o Set and enforced high standards of quality for software being developed
+          - Architected extensible cloud-native applications that will stand up to enterprise scale traffic
+          - Engage in regular 1-on-1’s with my team members, learning their interests & helping them develop
+          - Oversaw creation of API that will support same-day/next-day delivery for products from MDC’s
+          - Created application to help enable tool rental team to accept online reservations for tools
+          - Created first Concourse CICD pipeline for Finance IT
+          - Became a community advocate and leader for the CICD space, particularly in regards to Concourse CI
+          - Took the initiative to maintain the enterprise Jenkins Docker image, which had not been updated for over 2 years,
+resolving security problems and applying bug fixes.
+    - role: Developer I / Developer II / Software Engineer I
       time: 2014 - 2015
       company: Google, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Independently create, debug, test, and support software programs and utilities used in multiple tier-1 critical
+applications that operate a Fortune 500 transportation company.
+          - Member of a team that was regularly the first in the company to pioneer many new technologies, and determine new
+standards. This required quickly gaining a working knowledge of, and implementing several different new tools such as
+Oracle Workspace Manager, GigaSpaces, and Esri maps.
+          - Find opportunities for, and develop, flexible and extendable in-house frameworks used to increase efficiency and
+productivity of software development team.
+          - Independently research business solutions and prepare detailed project specifications and design timely solutions
+based on fact-based, objective analysis of business needs.
+          - Serve as subject matter expert and technical resource for multiple facets of the business and processes.
 projects:
     title: Projects
     intro: >
@@ -108,28 +106,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
