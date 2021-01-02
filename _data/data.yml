@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -31,12 +31,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a driven professional with over a decade of experience working on software projects 
+      for Fortune 500 companies. I have a proven ability to pick up new technologies quickly 
+      and add value to whatever team I'm on. I enjoy developing myself and others, and love 
+      learning new skills. 
 education:
     - degree: Bachelor of Science Degree in Information Technology
       university: American Intercontinental University
@@ -50,54 +48,53 @@ experiences:
       company: The Home Depot, Atlana, GA
       details: |
         Contributed to multiple initiatives to modernize enterprise applications, such as
-          - IRIS – Updated application to manage contacts for the Investor Relations group at THD.
           - Password Reset – Prevented almost 100,000 calls to the help desk per year for password resets, saving Home Depot over $4m per year
           - Tax Commons (MVP) – Develop a modern bridge to legacy tax system, allowing Installed Sales group to charge customers for installations. This has increased HD.com sales by over $100m just in 2018.
           - TimsUI – Create updated web UI that allows users to update transfers in the existing legacy system. Allows user to upload a spreadsheet of changes, updating hundreds of records in minutes, rather than days. 
-          - Team Anchor for Finance API – Team Atlas
-          - Led the team in researching and implementing GCP standards, and deployed first production application to GCP o Set and enforced high standards of quality for software being developed
+        Acting team lead / technical anchor for a Finance API team
+          - Led the team in researching and implementing GCP standards, and deployed first production application to GCP 
+          - Set and enforced high standards of quality for software being developed
           - Architected extensible cloud-native applications that will stand up to enterprise scale traffic
           - Engage in regular 1-on-1’s with my team members, learning their interests & helping them develop
-          - Oversaw creation of API that will support same-day/next-day delivery for products from MDC’s
-          - Created application to help enable tool rental team to accept online reservations for tools
+          - Oversaw creation of API that will support same-day/next-day delivery for products from new distribution centers
           - Created first Concourse CICD pipeline for Finance IT
-          - Became a community advocate and leader for the CICD space, particularly in regards to Concourse CI
+          - Became a community advocate and leader for the CICD space
           - Took the initiative to maintain the enterprise Jenkins Docker image, which had not been updated for over 2 years, resolving security problems and applying bug fixes.
     - role: Developer I / Developer II / Software Engineer I
-      time: 2014 - 2015
-      company: Google, London
+      time: 2010 - 2016
+      company: CSX Technology, Jacksonville, FL
       details: |
           - Independently create, debug, test, and support software programs and utilities used in multiple tier-1 critical applications that operate a Fortune 500 transportation company.
           - Member of a team that was regularly the first in the company to pioneer many new technologies, and determine new standards. This required quickly gaining a working knowledge of, and implementing several different new tools such as Oracle Workspace Manager, GigaSpaces, and Esri maps.
           - Find opportunities for, and develop, flexible and extendable in-house frameworks used to increase efficiency and productivity of software development team.
           - Independently research business solutions and prepare detailed project specifications and design timely solutions based on fact-based, objective analysis of business needs.
           - Serve as subject matter expert and technical resource for multiple facets of the business and processes.
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
