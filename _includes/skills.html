@@ -12,10 +12,10 @@
 
   <div class="skillset">
 
-    {% for skill in skills.toolset %}
     <div class="item">
+    {% for skill in skills.toolset %}
 
-      <span style="border-radius: 25px; border: 2px solid; padding: 5px;">{{ skill.name }}</span>
+      <span style="border-radius: 25px; border: 2px solid; padding: 5px; height: 20px; margin: 5px;">{{ skill.name }}</span>
 <!--
       <h3 class="level-title">{{ skill.name }}</h3>
 -->
@@ -25,8 +25,8 @@
         </div>
       </div>//level-bar-->
 
-    </div><!--//item-->
     {% endfor %}
+    </div><!--//item-->
 
   </div>
 
